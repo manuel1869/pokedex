@@ -101,7 +101,7 @@ export default{
 
       </div>
         
-        
+ //Va en un template       
  export default {
   data() {
     return {
