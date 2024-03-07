@@ -69,7 +69,7 @@
        <!-- RIGHT SIDE -->
         <RightSide/>
     </div>
-    //Prueba
+    
 </template>
 
 
